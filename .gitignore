@@ -1,6 +1,12 @@
-# History files
+# =========================
+# R Specific
+# =========================
+
+# R history & session files
 .Rhistory
 .Rapp.history
+.RData
+.Ruserdata
 
 # Session Data files
 .RData
